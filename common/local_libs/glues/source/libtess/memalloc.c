@@ -35,7 +35,7 @@
 */
 
 #include "memalloc.h"
-#include "string.h"
+#include <string.h>
 
 int __gl_wgmaply_memInit(size_t maxFast)
 {
